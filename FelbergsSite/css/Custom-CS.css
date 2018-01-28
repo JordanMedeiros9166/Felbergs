@@ -1,0 +1,108 @@
+﻿.center{
+    text-align:center;
+}
+
+.active a{    
+    background-color: palegreen !important;
+}
+
+.center-page{
+    width:300px;
+    height:300px;
+    position:absolute;
+
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+
+    margin:auto;
+}
+
+.center-page-details{
+    width:300px;
+    height:300px;
+    position:absolute;
+    padding-left:50px;
+   float:left;
+
+    margin:auto;
+}
+
+.space-vert{
+    margin-top:20px;
+}
+
+.display-sidebar{
+
+    position:fixed;
+    padding-top:40px; 
+    background-color:forestgreen;
+    height:100%;
+    width:390px;
+    margin-left:1px;
+}
+
+.display-toolbox{
+  position:absolute;
+  top:0;
+  right:0;
+  width:10%;
+  height:100%;
+  background-color:forestgreen;
+  
+}
+
+.toolbox-options{
+    padding-left:20px;
+    padding-top:60px;
+    font-size:medium;
+   
+}
+
+.sidebar-buttons{
+    padding-top:10px;
+}
+
+.sidebar-image-center{
+    padding-left:40px;
+}
+
+.sidebar-pad-price{
+    padding-left:220px;
+}
+
+.myaccount-header{
+    padding-left:420px;
+    padding-top:80px;
+}
+
+.myaccount-details{
+    padding-left:500px;
+    padding-top:40px;
+    color:darkgreen;
+}
+
+.myaccount-options{
+    padding-left:500px;
+}
+
+.hr{
+    border: none;
+    height: 1px;    
+    width: 1430px;
+    /* Set the hr color */
+    color: #000; /* old IE */    
+    background-color: #333; /* Modern Browsers */
+}
+
+.game-pad{
+    padding-left:450px;
+    padding-top:100px;
+}
+.floated_img
+{
+    padding-left:20px;
+    padding-top:20px;
+    float:left;
+}
